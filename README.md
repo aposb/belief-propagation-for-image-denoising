@@ -1,5 +1,5 @@
 # Loopy Belief Propagation for Image Denoising
-A C++ implementation of Loopy Belief Propagation for image denoising. It uses the "min-sum" variation of the algorithm and the "Accelerated" (RIGHT-LEFT-DOWN-UP pass) message update schedule.
+A C++ implementation of Loopy Belief Propagation for image denoising. It uses the "min-sum" variation of the algorithm and the "Accelerated" (Right-Left-Down-Up pass) message update schedule.
 
 ## Input Image
 The noisy image that used as input.
